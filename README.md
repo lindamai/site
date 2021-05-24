@@ -1,2 +1,2 @@
 # site
-For Cousera
+For Coursera
